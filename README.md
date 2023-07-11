@@ -47,7 +47,7 @@ Recommendations:
  
  Limitations & Next Steps:
  - the use of imblance dataset in machine learning model limits our capability to fine-tune our models to better understand patterns in our dataset
- - next Step - Explore better techniques on handling imblance dataset.
+ - next Step - Explore better techniques or models that will perform better on handling imblance dataset.
   
  ### For further information
 for any additional question, please contact me at my [email](delfino.kim@yahoo.com)
